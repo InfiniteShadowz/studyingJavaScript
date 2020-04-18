@@ -6,7 +6,7 @@ to declare a variable in JavaScript, its necessary to use `var`:
 
 ```javascript
 var name;
-var a = 5;
+var a;
 var b;
 ```
 
@@ -20,6 +20,7 @@ to assign a value to a variable or a variable to a variable, it is used the assi
 ```javascript
 //Declaration:
 var a;
+// you can declare a variable and assign it at the same time too:
 var b = 5;
 var c;
 
