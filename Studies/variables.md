@@ -29,3 +29,12 @@ c = b;
 b = a;
 ```
 
+
+## Non declarating variable in JS:
+
+when variables are only declared, they have an initial value of `undefined`.
+
+
+
+
+
