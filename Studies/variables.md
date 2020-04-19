@@ -32,11 +32,24 @@ b = a;
 
 ## Uninitialized variable in JS:
 
-when variables are only declared, they have an initial value of `undefined`.
+when variables are only declared, they have an initial value of `undefined`. If its tried to do math operations in `undefined` it returns `NaN` (Not a Number).
 
+_ex0:_
+```javascript
+//Those are uninitialized variables:
+var name;
+var a;
+var b;
+```
 
+_ex0:_
 
-
-
+```javascript
+//Those are initialized variables:
+var name = "FShinoda;
+var a = 5;
+var b = 0;
+//They will not return undefined.
+```
 
 
