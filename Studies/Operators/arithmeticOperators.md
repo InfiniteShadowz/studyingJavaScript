@@ -20,6 +20,6 @@ Those are the basics operations. It can be used to manipulate values or variable
 ## Division:
 
 - **`/`** ----> use to divide a number by other, but returning a float number --> _ex:_ `4/2 = 2.0`
-
+- **`%`** ---> the percent symbol is used to return the remainder of the divide operation between the given numbers --> _ex:_ `11%3 = 2`
 
 
